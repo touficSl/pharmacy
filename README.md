@@ -84,6 +84,7 @@ Default credentials will be created during Voyager installation.
 
 **Toufic SL**
 - GitHub: [@touficSl](https://github.com/touficSl)
+- LinkedIn: [toufic-sleimanl]([https://github.com/touficSl](https://www.linkedin.com/in/toufic-sleiman))
 
 ## 📝 License
 
